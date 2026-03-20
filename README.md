@@ -44,8 +44,8 @@
 
 > **Architects of the Digital Age** — A digital engineering agency founded in 2024, specializing in mobile, web, desktop, and AI-driven software products for businesses worldwide.
 
-[![Website](https://img.shields.io/badge/Website-vyloxi.tech-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0D0D)](https://vyloxi.tech)
-[![Email](https://img.shields.io/badge/Email-contact@vyloxi.tech-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:contact@vyloxi.tech)
+[![Website](https://img.shields.io/badge/Website-vyloxi.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D0D0D)](https://vyloxi.com)
+[![Email](https://img.shields.io/badge/Email-info@vyloxi.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:info@vyloxi.com)
 
 </div>
 
@@ -70,6 +70,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🖥️ Desktop
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
