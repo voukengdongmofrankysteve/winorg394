@@ -23,35 +23,18 @@
 
 ## 🧬 About Me
 
-```typescript
-const voukeng = {
-  name:        "Voukeng Dongmo Franky Steve",
-  alias:       "frankysteve",
-  role:        ["Full-Stack Developer", "AI Solutions Architect", "CEO @ Vyloxi Tech"],
-  location:    "Yaoundé, Cameroon 🌍",
-  company:     "Vyloxi Tech — Architects of the Digital Age",
-  founded:     2024,
-
-  expertise: {
-    mobile:    ["Flutter", "React Native"],
-    web:       ["React", "Vue.js", "Laravel", "FastAPI", "Node.js"],
-    desktop:   ["Tauri (Rust)", "Electron"],
-    ai:        ["Model Fine-tuning", "NLP", "Computer Vision", "Predictive Analytics"],
-    devops:    ["GitHub Actions", "Docker", "Nginx", "PM2", "systemd", "VPS"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "SQLite", "Firebase"],
-  },
-
-  currentlyBuilding: [
-    "HubStack   — polyglot local dev environment manager (Tauri 2 + React)",
-    "CardioMedApi — Laravel medical REST API",
-    "VideoTube  — Christian content platform w/ AI subtitle generation",
-    "IdFlow     — Face recognition & ID verification system",
-  ],
-
-  funFact: "I shipped 100+ projects across 3 continents & fine-tuned 10+ AI models 🤖",
-  motto:   "Transform complex challenges into elegant, scalable solutions.",
-};
-```
+- 👨‍💻 **Voukeng Dongmo Franky Steve** — Full-Stack Developer, AI Solutions Architect & CEO @ **Vyloxi Tech**
+- 📍 Based in **Yaoundé, Cameroon** 🌍 — building for the world
+- 🏢 Founder of **Vyloxi Tech** *(est. 2024)* — *Architects of the Digital Age*
+- 📱 Expert in **Flutter · React Native** for cross-platform mobile apps
+- 🌐 Backend craftsman: **Laravel · FastAPI · Node.js · React · Vue.js**
+- 🖥️ Desktop builder: **Tauri 2 (Rust) · Electron**
+- 🤖 AI practitioner: **Model Fine-tuning · NLP · Computer Vision · Predictive Analytics**
+- ⚙️ DevOps stack: **GitHub Actions · Docker · Nginx · PM2 · systemd · VPS**
+- 🗄️ Databases: **MySQL · PostgreSQL · MongoDB · SQLite · Firebase**
+- 🚧 Currently building: **HubStack**, **CardioMedApi**, **VideoTube**, **IdFlow**
+- ⚡ Fun fact: Shipped **100+ projects** across 3 continents & fine-tuned **10+ AI models**
+- 💬 Motto: *"Transform complex challenges into elegant, scalable solutions."*
 
 ---
 
